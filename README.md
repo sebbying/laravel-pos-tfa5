@@ -4,3 +4,4 @@ Counter POS is a four-page Laravel application for IT0049 TFA5, **From Zero to F
 
 This activity builds the foundation of a POS application. Account editing, sign-in, sales, and payment processing are outside its scope.
 
+WEBSITE: https://jatumbokontechmodule5.web1337.net/laravel-pos-tfa5/public
